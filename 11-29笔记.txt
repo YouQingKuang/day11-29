@@ -1,0 +1,16 @@
+1.create database test1
+	创建数据库
+2.show databases;
+	显示数据库
+3.create table emp(ename varchar(10),hiredate date,sal decimal(10,2),deptno int(2));
+	创建表
+4.select database();
+	显示当前数据库
+5.show tables;
+	显示数据库中的表
+6.desc emp
+	显示表结构
+7.show create table tablename \g;
+	显示表的详细结构
+
+
